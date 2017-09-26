@@ -1,0 +1,5 @@
+#include "dcldcl.h"
+#include "undclmain.c"
+#include "dclgettoken.c"
+#include "getch.c"
+#include "ungetch.c"

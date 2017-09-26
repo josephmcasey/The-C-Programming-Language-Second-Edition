@@ -1,0 +1,6 @@
+#include "calc1.c"
+#include "push.c"
+#include "pop.c"
+#include "getop.c"
+#include "getch.c"
+#include "ungetch.c"
